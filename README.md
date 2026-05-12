@@ -20,6 +20,53 @@
 
 ---
 
-```bash
-┌──(karan㉿github)-[~/profile]
-└─$ whoami
+# 💻 About Me
+
+I’m **Karan Sharma**, a passionate **Full-Stack MERN Developer** and **Security Researcher** focused on building modern, scalable, and security-aware applications.
+
+I enjoy combining:
+- 🌐 Full-stack development
+- 🔐 Web security research
+- 🤖 AI-powered automation
+- 🐧 Linux & open-source tooling
+
+My primary interests are:
+- Web Application Security
+- Bug Bounty Hunting
+- Recon Automation
+- API Security
+- AI + Cybersecurity
+- Modern MERN Applications
+
+I’m constantly exploring new technologies and building tools that solve real-world problems.
+
+---
+
+# ⚡ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgresql,python,javascript,typescript,tailwind,redux,docker,linux,kali,bash,git,github,vscode,postman,figma" />
+
+</div>
+
+---
+
+# 🧠 Current Focus
+
+```yaml
+Building:
+  - AI-powered security tools
+  - Modern MERN applications
+  - Automation systems
+
+Learning:
+  - Advanced web exploitation
+  - DevOps fundamentals
+  - AI integrations
+  - Attack surface mapping
+
+Exploring:
+  - Security automation
+  - Scalable architectures
+  - AI-assisted workflows
