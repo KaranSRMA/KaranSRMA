@@ -46,7 +46,7 @@ I’m constantly exploring new technologies and building tools that solve real-w
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgresql,python,javascript,tailwind,redux,fastapi,linux,kali,bash,git,github,vscode,postman,figma,solidity,cs,go,unity,blener" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,postgresql,python,javascript,tailwind,redux,fastapi,linux,kali,bash,git,github,vscode,postman,figma,solidity,cs,go,unity,blender" />
 
 </div>
 
